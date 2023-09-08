@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @dion-pro
-- 👀 I’m interested in C# and Java
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in C#, Julia and Nim
+- 🌱 I’m currently learning Python and Rust
 - 💞️ I am currently a semi-professional programmer in Batch Scripts
