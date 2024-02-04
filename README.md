@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @dion-pro
-- 👀 I’m interested in C#, Julia and Nim
-- 🌱 I’m currently learning Python and Rust
+- 👀 I’m interested in Python, Julia and Batch (in deployment scenarios)
+- 🌱 I’m currently learning Python and Assembly full time.
 - 💞️ I am currently a semi-professional programmer in Batch Scripts
