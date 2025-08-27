@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @dion-pro
-- 👀 I’m interested in Python, Julia and Batch (in deployment scenarios)
-- 🌱 I’m currently learning Python and Assembly full time.
-- 💞️ I am currently a semi-professional programmer in Batch Scripts
+- 👀 I’m interested in Python, Assembly and Batch.
+- 🌱 I’m currently learning Assembly.
+- 💞️ I am currently an enthusiast programmer in OSDev and Batch Scripting.
